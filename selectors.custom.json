@@ -1,0 +1,7 @@
+{
+  "www.exemple-shop.com": {
+    "title": { "css": "h1.product-title", "attr": null },
+    "price": { "css": ".current-price [data-price]", "attr": "data-price" },
+    "currency": { "css": ".currency-code", "attr": null }
+  }
+}
